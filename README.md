@@ -25,4 +25,7 @@ The Jobizz React Native app is a simple application designed to allow users to l
     For IOS:
     npx pod-install
     npx react-native run-ios
-    
+
+4. **SCREENSHOTS**
+![Loginpage](<../MyNewProject/assets/loginpage (1).png>)
+![Homepage](../MyNewProject/assets/homepage.png)
